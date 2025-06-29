@@ -1,0 +1,1 @@
+function somar(r,o){return r+o}module.exports=simar;
